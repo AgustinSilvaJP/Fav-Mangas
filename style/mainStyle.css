@@ -1,8 +1,8 @@
 .image-main{height: 400px;}
 .title-h{color:whitesmoke; text-align: center;}
 .text{color:antiquewhite; text-align: center;}
-#maintr{background-color: black;}
-#head-main{background-color: rgba(3, 3, 3, 0.925);}
-#main-main{background-color: #1f000e;}
-#foot-main{background-color: rgb(16, 6, 24);}
-#bod{background-color: darkred;}
+#maintr{background-color: rgb(3, 0, 0);}
+#head-main{background-color: black;}
+#main-main{background-color: black}
+#foot-main{background-color: black;}
+#bod{background-color: black;}
