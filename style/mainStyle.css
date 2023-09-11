@@ -1,8 +1,28 @@
-.image-main{height: 400px;}
-.title-h{color:whitesmoke; text-align: center;}
-.text{color:antiquewhite; text-align: center;}
-#maintr{background-color: rgb(3, 0, 0);}
-#head-main{background-color: black;}
-#main-main{background-color: black}
-#foot-main{background-color: black;}
-#bod{background-color: black;}
+.image-main{
+    height: 400px;
+}
+.title-h{
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+.text{color:antiquewhite;
+    text-align: center;
+}
+#maintr{
+    background-color: rgba(3, 0, 0, 0.356);
+}
+#head-main{
+    background-color: rgba(rgb(70, 10, 10), rgb(4, 54, 4), rgb(55, 55, 190), 0.4);
+}
+#main-main{
+    background-color: black
+}
+#foot-main{
+    background-color: black;
+}
+#bod{
+    background-color: black;
+}
