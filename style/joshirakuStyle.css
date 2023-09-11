@@ -1,0 +1,40 @@
+#body-joshiraku{
+    background-color: rgba(48, 11, 40, 0.8);
+}
+#header-joshiraku{
+    background-color: rgba(32, 3, 28, 0.9);
+}
+#main-joshiraku{
+    background-color: rgb(15, 1, 1);
+}
+#h2-title{
+    color: rgb(255, 254, 254);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+.manga-info{
+    color: rgb(250, 248, 248);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+    font-weight: 200;
+    text-align: center;
+}
+.joshi-image{
+    height: 300px;
+    width: auto;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+}
+a{
+    color: lightyellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+    font-weight: 250;
+}
